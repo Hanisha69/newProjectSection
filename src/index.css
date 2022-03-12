@@ -108,10 +108,10 @@ code {
 .left_container .icons a:hover{
   color: #c4cfde;
 }
-@media screen and (max-width:300px){
+@media screen and (max-width:420px){
   .box{
-      width:250px;
-      height:250px;
+      width:200px;
+      height:200px;
   }
   .box img{
       width:100px;
